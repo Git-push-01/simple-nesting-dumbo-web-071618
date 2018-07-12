@@ -45,6 +45,8 @@ def alan_kay_is_known_for
 				    :languages => ["LISP", "C"]
 				}
      }
+		 programmer_hash[:alan_kay][:known_for] 
+
 end
 alan_kay_is_known_for
 
