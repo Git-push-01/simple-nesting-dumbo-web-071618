@@ -101,7 +101,7 @@ def adding_matz
 
 
 end
-changing_alan
+adding_matz
 
 def changing_alan
 	programmer_hash =
